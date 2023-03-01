@@ -57,7 +57,7 @@ pip install <库名>
 
 **资源：**
 
-**手动安装的8个库（适用于3.7版本）：**
+**手动安装的8个库（适用于3.7版本）（推荐使用，github库源中还有一个200m的库因太大未上传，numpy-1.21.0+mkl-cp37-cp37m-win_amd64.whl）：**
 
 链接：https://pan.baidu.com/s/1UE6old8v3VZupz3QNmLQMw 
 提取码：1esg
