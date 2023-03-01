@@ -17,7 +17,7 @@ Python官网：https://www.python.org/
 如果你想完全学完这本书不卡壳，按照我下面的操作进行即可
 
 ```
-你需要安装的库如下，源文件我会放一个链接下载，github也会同步上传
+你需要安装的库如下，源文件我会放一个链接下载
 cvxopt-1.3.0-cp37-cp37m-win_amd64
 cvxpy-1.1.13-cp37-cp37m-win_amd64
 ecos-2.0.7.post1-cp37-cp37m-win_amd64
