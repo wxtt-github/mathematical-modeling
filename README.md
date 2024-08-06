@@ -10,7 +10,7 @@
 
 ~~去到Python官网进行安装包的下载，顺便可以把Vscode的环境也配了，在Vscode上写Python会非常舒服，大体流程是下载一个Vscode的安装包安装，然后选择Python的解释器版本，最后你可以敲一段简单代码右键在终端运行测试下，就可以了。（当然你用别的环境也ok）~~
 
-> 更新：下载anaconda管理python，再结合pycharm或者jupyter用来编辑代码才是王道，点击[AnacondaCommand](AnacondaCommand)查看常用命令（会那么几个就够了，创建环境，激活，安库）
+> 更新：下载anaconda管理python，再结合pycharm或者jupyter用来编辑代码才是王道，点击[AnacondaCommand](AnacondaCommand.md)查看常用命令（会那么几个就够了，创建环境，激活，安库）
 
 ##### **接下来就是重中之重**
 
